@@ -11,7 +11,6 @@ repositories {
     google()
     maven(url = "https://kotlin.bintray.com/kotlinx")
     maven(url = "https://dl.bintray.com/kodein-framework/kodein-dev")
-    jcenter()
 }
 
 kodein {
